@@ -1,0 +1,8 @@
+# Enter the UUIDs of those trash resource packs that ruin our custom textures.
+# -- Examples --
+# uuid:
+#   - "0fba4063-dba1-4281-9b89-ff9390653530"
+
+blacklist:
+  uuid:
+    - "0fba4063-dba1-4281-9b89-ff9390653530"
