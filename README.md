@@ -15,7 +15,7 @@ A smart and minimalistic PocketMine-MP plugin to **filter out unwanted resource 
 
 ## 🔧 Installation
 
-1. Download the latest release from the [Releases](https://github.com/YourUserName/PackFilter/releases) page.
+1. Download the latest release from the [Releases](https://github.com/Negxi/PackFilter/releases) page.
 2. Drop the `.phar` file into your `plugins/` folder.
 3. Start your server. A default `config.yml` will be generated automatically.
 
