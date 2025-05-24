@@ -1,6 +1,6 @@
 <?php
 /**
- * This file is part of the VoidPack plugin.
+ * This file is part of the PackFilter plugin.
  *
  * @author      Negxi
  * @license     MIT License
