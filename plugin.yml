@@ -1,0 +1,18 @@
+# ┌───────────────────────────────────────┐
+# │          PackFilter Plugin            │
+# │    Filter out unneeded resourcepacks  │
+# │          by Negxi - v1.0.0            │
+# └───────────────────────────────────────┘
+
+name: PackFilter
+main: Negxi\Heart
+version: 1.0.0
+api: 5.0.0
+author: Negxi
+description: >
+  List the UUIDs of resource packs that disrupt your custom visuals.
+  This filter prevents intrusive packs—such as the Chemistry Pack—from affecting your intended texture design.
+
+# Optional fields:
+website: https://github.com/Negxi/PackFilter
+license: MIT
